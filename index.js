@@ -20,8 +20,8 @@ style.innerHTML = `
 document.head.appendChild(style);
 
 // Nội dung bức thư
-const contentLetterSrart_actived = "Quà sinh nhật của HÂN nè mong HÂN nhận nhe."; // Lời mở đầu cho bức thư
-const mainContentLetter = "Chúc HÂN một tuổi mới thật rực rỡ và ngày càng xinh đẹp. Tuổi 17 thành công và dần dần tiến tới mục tiêu của EM nha tiếp tục thực hiện giấc mơ đại học của mình.";
+const contentLetterSrart_actived = "Quà sinh nhật của MY nè mong MY nhận nhe."; // Lời mở đầu cho bức thư
+const mainContentLetter = "Chúc MY một tuổi mới thật rực rỡ và ngày càng xinh đẹp. Tuổi 19 thành công và dần dần tiến tới mục tiêu của MY nha tiếp tục thực hiện mục tiêu hoàn thành đại học của mình.";
 
 // Gắn ảnh vào thư
 let imgStart = document.querySelector(".myAI");
